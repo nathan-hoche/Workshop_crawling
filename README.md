@@ -1,5 +1,5 @@
 <h1 align="center">
-    Workshop - WebScrapping Crawl
+    Workshop - WebScraping Crawl
 </h1>
 
 <p align="center">
@@ -8,20 +8,20 @@
 <br>
 
 <h3 align="center">
-    The objective of this workshop is to discover how to make a crawl on WebScrapping
+    The objective of this workshop is to discover how to make a crawl on WebScraping
 </h3>
 <br><br>
 
 # **Before**
 
 Before this workshop we organise two other ones, if you wasn't here to the first one, we suggest you to see all the notion that we saw.
-> https://github.com/nathan-hoche/Workshop_ScrappingWeb_Python
+> https://github.com/nathan-hoche/Workshop_ScrapingWeb_Python
 
 <br>
 
 # **What's a Crawl**
 
-A Crawl is the action of browsing a website using webscrapping.
+A Crawl is the action of browsing a website using webscraping.
 
 <br><br>
 
